@@ -1,0 +1,5 @@
+﻿  text.c
+d:\c代码\project2\project2\text.c(97): warning C4022: “cmp”: 指针与实参 2 不匹配
+d:\c代码\project2\project2\text.c(101): warning C4716: “bubble_sort”: 必须返回一个值
+d:\c代码\project2\project2\text.c(86): warning C4716: “Swap”: 必须返回一个值
+  Project2.vcxproj -> D:\c代码\Project2\Debug\Project2.exe
